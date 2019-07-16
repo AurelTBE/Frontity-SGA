@@ -1,0 +1,25 @@
+{
+  "name": "sga-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontity project",
+  "keywords": [
+    "frontity"
+  ],
+  "scripts": {
+    "dev": "frontity dev",
+    "build": "frontity build",
+    "serve": "frontity serve"
+  },
+  "prettier": {},
+  "dependencies": {
+    "@frontity/core": "^1.1.3",
+    "@frontity/html2react": "^1.1.8",
+    "@frontity/sga-theme": "file:packages/sga-theme",
+    "@frontity/tiny-router": "^1.0.12",
+    "@frontity/wp-source": "^1.1.8",
+    "@material-ui/core": "^4.2.0",
+    "@material-ui/icons": "^4.2.1",
+    "frontity": "^1.2.2"
+  }
+}
