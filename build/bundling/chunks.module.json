@@ -2,36 +2,15 @@
   "errors": [],
   "warnings": [],
   "version": "4.35.3",
-  "hash": "79e35fc6f9dd5042e5da",
+  "hash": "1dd0a4bdf3abbe8985c8",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\Buster\\Desktop\\SGA\\site\\sandbox\\sga-app\\build\\static",
   "assetsByChunkName": {
-    "list": [
-      "list.module.js",
-      "list.d8bbd0daddf6284a1eba.hot-update.js"
-    ],
+    "list": "list.module.js",
     "sga-app": "sga-app.module.js",
     "vendors~list": "vendors~list.module.js"
   },
   "assets": [
-    {
-      "name": "d8bbd0daddf6284a1eba.hot-update.json",
-      "size": 46,
-      "chunks": [],
-      "chunkNames": [],
-      "emitted": false
-    },
-    {
-      "name": "list.d8bbd0daddf6284a1eba.hot-update.js",
-      "size": 7400,
-      "chunks": [
-        "list"
-      ],
-      "chunkNames": [
-        "list"
-      ],
-      "emitted": false
-    },
     {
       "name": "list.module.js",
       "size": 20772,
@@ -97,8 +76,7 @@
       ],
       "assets": [
         "vendors~list.module.js",
-        "list.module.js",
-        "list.d8bbd0daddf6284a1eba.hot-update.js"
+        "list.module.js"
       ],
       "children": {},
       "childAssets": {}
